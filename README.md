@@ -21,6 +21,8 @@ GetNorthPath is a **consultant-reviewed, AI-powered immigration platform** that 
 
 We automate the time-consuming parts (form-filling, document validation, deadline tracking), so our experienced consultants can focus on the expert judgment that matters most. All for **$299 CAD** — versus the $2,000–$5,000+ USD charged by traditional immigration firms.
 
+![GetNorthPath - Banner Image](Images/Steps-GetNorthPath.png)
+
 ---
 
 ## ✨ Key Features
