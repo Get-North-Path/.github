@@ -1,5 +1,7 @@
 # 🍁 GetNorthPath
 
+![GetNorthPath](https://github.com/Get-North-Path/.github/blob/main/Images/process-github.png)
+
 > **Every stage of your Canadian journey, covered.**
 
 **AI-powered immigration platform** — built for immigrants, by immigrants. GetNorthPath combines expert consultant review with AI automation to make Canadian immigration accessible, accurate, and affordable.
