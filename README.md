@@ -1,6 +1,6 @@
 # 🍁 GetNorthPath
 
-![GetNorthPath - Banner Image](Images/process-github.png.png)
+![GetNorthPath - Banner Image](Images/process-github.png)
 
 > **Every stage of your Canadian journey, covered.**
 
