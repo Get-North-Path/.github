@@ -42,19 +42,19 @@ We automate the time-consuming parts (form-filling, document validation, deadlin
 
 ## 🗺️ Supported Application Types (13+)
 
-- 🎓 **[Study Permit](https://www.getnorthpath.com/contact)** — Inside & outside Canada (IMM 1294 / IMM 5709 E)
-- 🌍 **[Visitor Visa & Super Visa](https://www.getnorthpath.com/contact)** — TRV and parent/grandparent Super Visa (IMM 5257)
-- 💼 **[Work Permit](https://www.getnorthpath.com/contact)** — Open & employer-specific, inside & outside Canada (IMM 1295 / IMM 5710 E)
-- ⭐ **[Express Entry (PR)](https://www.getnorthpath.com/contact)** — FSW, CEC, FST — full ITA response within the 60-day window
-- 🏡 **[Permanent Residency](https://www.getnorthpath.com/contact)** — All in-Canada PR streams (IMM 5444)
-- 🌐 **[Provincial Nominee Program (PNP)](https://www.getnorthpath.com/contact)** — All provinces: ON, BC, AB, SK & more
-- ❤️ **[Family Sponsorship](https://www.getnorthpath.com/contact)** — Spouse, partner, child, parent sponsorship (IMM 5540)
-- 💑 **[Spousal Sponsorship + Express Entry](https://www.getnorthpath.com/contact)** — Combined family & EE in one flow
-- 🍁 **[Canadian Citizenship](https://www.getnorthpath.com/contact)** — Physical presence calculation, language validation (CIT 0002)
-- 🏢 **[Business Immigration](https://www.getnorthpath.com/contact)** — Entrepreneur, investor & self-employed pathways
-- 🤝 **[Humanitarian & Compassionate (H&C)](https://www.getnorthpath.com/contact)** — Sensitive handling of complex humanitarian files
-- 🔄 **[Status Restoration & Extensions](https://www.getnorthpath.com/contact)** — Maintain legal status between streams
-- ⚖️ **[Inadmissibility & Appeals](https://www.getnorthpath.com/contact)** — IRCC refusal responses and reconsideration requests
+- 🎓 **[Study Permit](https://www.getnorthpath.com/pathways/study-permit)** — Inside & outside Canada (IMM 1294 / IMM 5709 E)
+- 🌍 **[Visitor Visa & Super Visa](https://www.getnorthpath.com/pathways/visitor-visa)** — TRV and parent/grandparent Super Visa (IMM 5257)
+- 💼 **[Work Permit](https://www.getnorthpath.com/pathways/work-permit)** — Open & employer-specific, inside & outside Canada (IMM 1295 / IMM 5710 E)
+- ⭐ **[Express Entry (PR)](https://www.getnorthpath.com/pathways/express-entry)** — FSW, CEC, FST — full ITA response within the 60-day window
+- 🏡 **[Permanent Residency](https://www.getnorthpath.com/pathways/permanent-residency)** — All in-Canada PR streams (IMM 5444)
+- 🌐 **[Provincial Nominee Program (PNP)](https://www.getnorthpath.com/pathways/pnp)** — All provinces: ON, BC, AB, SK & more
+- ❤️ **[Family Sponsorship](https://www.getnorthpath.com/pathways/family-sponsorship)** — Spouse, partner, child, parent sponsorship (IMM 5540)
+- 💑 **[Spousal Sponsorship + Express Entry](https://www.getnorthpath.com/pathways/spousal-sponsorship)** — Combined family & EE in one flow
+- 🍁 **[Canadian Citizenship](https://www.getnorthpath.com/pathways/citizenship)** — Physical presence calculation, language validation (CIT 0002)
+- 🏢 **[Business Immigration](https://www.getnorthpath.com/pathways)** — Entrepreneur, investor & self-employed pathways
+- 🤝 **[Humanitarian & Compassionate (H&C)](https://www.getnorthpath.com/pathways/humanitarian)** — Sensitive handling of complex humanitarian files
+- 🔄 **[Status Restoration & Extensions](https://www.getnorthpath.com/pathways)** — Maintain legal status between streams
+- ⚖️ **[Inadmissibility & Appeals](https://www.getnorthpath.com/pathways/status-restoration)** — IRCC refusal responses and reconsideration requests
 
 ---
 
@@ -121,22 +121,22 @@ GetNorthPath supports applicants:
 
 ### Company
 - 🏢 **About GetNorthPath:** [getnorthpath.com/about](https://www.getnorthpath.com/about)
-- 📖 **Immigration Blog:** [getnorthpath.com/pathways](https://www.getnorthpath.com/pathways)
+- 📖 **Immigration Blog:** [getnorthpath.com/blog](https://www.getnorthpath.com/blog)
 - 🤝 **Partner With Us:** [getnorthpath.com/partnerships](https://www.getnorthpath.com/partnerships)
-- 💼 **Careers:** [getnorthpath.com/partnerships](https://www.getnorthpath.com/partnerships)
+- 💼 **Careers:** [getnorthpath.com/careers](https://www.getnorthpath.com/careers)
 - 📬 **Contact Us:** [getnorthpath.com/contact](https://www.getnorthpath.com/contact)
 
 ### Legal & Support
-- 🔏 **Privacy Policy:** [getnorthpath.com/help](https://www.getnorthpath.com/help)
-- 📄 **Terms of Service:** [getnorthpath.com/help](https://www.getnorthpath.com/help)
-- 🍪 **Cookie Policy:** [getnorthpath.com/help](https://www.getnorthpath.com/help)
+- 🔏 **Privacy Policy:** [getnorthpath.com/privacy](https://www.getnorthpath.com/privacy)
+- 📄 **Terms of Service:** [getnorthpath.com/terms](https://www.getnorthpath.com/terms)
+- 🍪 **Cookie Policy:** [getnorthpath.com/cookies](https://www.getnorthpath.com/cookies)
 - ❓ **Help Center:** [getnorthpath.com/help](https://www.getnorthpath.com/help)
 - 🛎️ **Contact Support:** [getnorthpath.com/contact](https://www.getnorthpath.com/contact)
 
 ### Social
-- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com)
-- 📸 **Instagram:** [instagram.com](https://www.instagram.com)
-- ▶️ **YouTube:** [youtube.com](https://www.youtube.com)
+- 💼 **LinkedIn:** [linkedin.com/company/getnorthpath](https://www.linkedin.com/company/getnorthpath/)
+- 📸 **Instagram:** [instagram.com/get.northpath](https://www.instagram.com/get.northpath/)
+- ▶️ **YouTube:** [GetNorthPath channel](https://www.youtube.com/channel/UCbVosfCUzN2hHeNPDUn_yew)
 
 ---
 
